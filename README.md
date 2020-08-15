@@ -6,3 +6,4 @@ The system has following modules and each module's functionalities are as define
 - Manage Users
 - Manage Event Themes
 - Manage Login
+## Registration module
